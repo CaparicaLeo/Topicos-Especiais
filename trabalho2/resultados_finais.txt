@@ -1,0 +1,28 @@
+--- INICIANDO RECUPERAÇÃO CBIR ---
+
+Processando Query 1: 1.png
+  1º -> 8.png | Score: 0.5777 | Box: (823, 3, 953, 56)
+  2º -> 5.png | Score: 0.5743 | Box: (650, 103, 880, 156)
+  3º -> 8.png | Score: 0.5653 | Box: (820, 3, 983, 80)
+
+Processando Query 2: 10.png
+  1º -> 10.png | Score: 0.8114 | Box: (1596, 876, 2230, 1033)
+  2º -> 10.png | Score: 0.7833 | Box: (1596, 896, 2230, 1033)
+  3º -> 5.png | Score: 0.5223 | Box: (596, 1206, 996, 1330)
+
+Processando Query 3: 11.png
+  1º -> 13.png | Score: 0.6167 | Box: (126, 56, 350, 166)
+  2º -> 1.png | Score: 0.5721 | Box: (603, 873, 953, 943)
+  3º -> 1.png | Score: 0.5680 | Box: (806, 650, 1030, 720)
+
+Processando Query 4: 20.png
+  1º -> 2.png | Score: 0.5547 | Box: (196, 126, 450, 383)
+  2º -> 24.png | Score: 0.5225 | Box: (93, 260, 480, 473)
+  3º -> 18.png | Score: 0.5198 | Box: (243, 170, 493, 523)
+
+Processando Query 5: 25.png
+  1º -> 18.png | Score: 0.6671 | Box: (886, 1766, 1106, 1863)
+  2º -> 24.png | Score: 0.6572 | Box: (990, 1720, 1333, 1986)
+  3º -> 19.png | Score: 0.6163 | Box: (526, 380, 763, 486)
+
+--- PROCESSO CONCLUÍDO ---

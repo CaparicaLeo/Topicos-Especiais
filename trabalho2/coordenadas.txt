@@ -1,0 +1,5 @@
+Imagem 1: 1 - Sua Bounding Box para essa query é: (272, 203, 1015, 404)
+Imagem 2: 10 - Sua Bounding Box para essa query é: (1404, 884, 2254, 1070)
+Imagem 3: 11 - Sua Bounding Box para essa query é: (1880, 62, 2216, 216)
+Imagem 4: 20 - Sua Bounding Box para essa query é: (158, 201, 543, 564)
+Imagem 5: 25 - Sua Bounding Box para essa query é: (903, 1728, 1289, 1872)
